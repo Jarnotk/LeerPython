@@ -14,3 +14,15 @@
 # Dat komt door de "print()" functie.
 
 print("Hallo, ik leer Python")
+	# Tekst tussen "" betekend dat het gaat om een "string".
+
+print(10)
+	# Getallen tussen () zonder "" betekend dat het gaat om een "integer", een getal. Hiermee kan gerekend worden.
+
+print(10 + 5)
+	# Dit is een som. De "print()" functie zal alleen het antwoord weergeven en niet de som zelf.
+	# Als je de som wilt weergegen doe je:
+
+print("10 + 5 = ", 10 + 5)
+	# "10 + 5 = " is een string en 10 + 5 is een integer. De , zorgt ervoor dat de
+	# string en het antwoord worden weergegeven als 1 stuk tekst.
