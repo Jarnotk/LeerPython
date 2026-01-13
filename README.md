@@ -1,7 +1,12 @@
 # LeerPython
 
-This is my collection of all things about learning Python.
+Dit is mijn collectie van alle dingen over het leren van Python.
+Alle bestanden zijn per les verdeeld en genaamd naar de opdracht in de les.
 
-All files are filed per chapter and named after the exercise of the content.
+## Les 1 - print(), variables & math
 
-## Lesson 1
+- hello_world.py
+- variables.py
+- math_with_python.py
+
+## Les 2 - Input
