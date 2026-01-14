@@ -10,3 +10,11 @@ Alle bestanden zijn per les verdeeld en genaamd naar de opdracht in de les.
 - math_with_python.py
 
 ## Les 2 - Input
+
+- input.py
+- if_else.py
+
+## Les 3 - arrays, for-loop
+
+- array.py
+- for_loop.py
