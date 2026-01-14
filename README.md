@@ -9,7 +9,7 @@ Alle bestanden zijn per les verdeeld en genaamd naar de opdracht in de les.
 - variables.py
 - math_with_python.py
 
-## Les 2 - Input
+## Les 2 - input(), if-else
 
 - input.py
 - if_else.py
